@@ -46,10 +46,10 @@ void FixedUpdate(){
 
 ---
 
-<link href="https://emoji-css.afeld.me/emoji.css" rel="stylesheet">
-| Game Name <i class="em em-crossed_swords" aria-role="presentation" aria-label=""></i> | Release Date | Rating |
+
+| Game Name | Release Date | Rating |
 |-------|------ |------|
-| Just a Knight   | Never   | <i class="em em---1" aria-role="presentation" aria-label="THUMBS UP SIGN"></i> |
+| Just a Knight   | Never   | 5/5 |
 
 ---
 
