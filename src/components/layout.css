@@ -20,6 +20,7 @@ body {
  background-image: url("https://github.com/Jkytol/JKgatsby/blob/master/src/images/bg.jpg") !important;;
  background-position: center center;
  background-size: cover;
+  height: auto
 }
 article,
 aside,
