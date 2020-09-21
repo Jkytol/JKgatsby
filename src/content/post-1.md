@@ -1,8 +1,8 @@
 ---
-title: "Doing a game jam is such a pleasant thing, since its a joy, and this is long post title, and to view how it works. Game art and Code preview here."
-date: "2020-21-09"
+title: "Doing a game jam is such a pleasant thing, since its a joy, and this is long post title, and to see how it works. Game art and Code preview here."
+date: "2020-09-21"
 draft: false
-path: "/blog/EkaPostaus"
+path: "/blog/eka-postaus"
 ---
 # c# movement script & art assets sneakpeek
 
