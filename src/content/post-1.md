@@ -46,9 +46,9 @@ void FixedUpdate(){
 
 ---
 
-| Game Name | Release Date | asdf|
+| Game Name :shipit: | Release Date | Rating |
 |-------|------ |------|
-| Just a Knight   | Never   | asdf |
+| Just a Knight   | Never   | :+1: |
 
 ---
 
