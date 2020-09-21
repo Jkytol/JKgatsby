@@ -11,7 +11,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   
-  /* full background changing Background */
+
     background-image: url(https://unsplash.it/1920/1160?random&t=7&gravity=center);
     background-color: rgb(52, 73, 94);
     background-position: center center;
