@@ -50,7 +50,7 @@ const Layout = ({ children }) => (
             © {new Date().getFullYear()}, Built with
             {` `}
             </p>
-            <GatsbyLink href="https://www.gatsbyjs.org"> gatsby </GatsbyLink>
+            <h6>LOVE</h6>
           </Footer>
         </Content>
       </>
