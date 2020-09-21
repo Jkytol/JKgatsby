@@ -10,15 +10,10 @@ body {
   font-family: "Nunito", "Avenir", "Helvetica", "sans-serif";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  
-
-    background-image: url(https://github.com/Jkytol/JKgatsby/blob/master/src/images/bg.jpg);
-    background-color: rgb(52, 73, 94);
-    background-position: center center;
-    background-size: cover;
-    background: center center no-repeat;
-  
-  
+ background-image: url(https://github.com/Jkytol/JKgatsby/blob/master/src/images/bg.jpg);
+ background-color: rgb(52, 73, 94);
+ background-position: center center;
+ background-size: cover;
 }
 article,
 aside,
