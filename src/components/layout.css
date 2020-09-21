@@ -2,11 +2,19 @@ code {
   background-color: hsla(0, 0%, 0%, 0.04);
 }
 
+
+    
+
 body {
   margin: 0;
   font-family: "Nunito", "Avenir", "Helvetica", "sans-serif";
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  
+  background-image: url(https://unsplash.it/1920/1160?random&t=7&gravity=center);
+    background-color: rgb(52, 73, 94);
+    background-position: center center;
+    background-size: cover;
 }
 article,
 aside,
