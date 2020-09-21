@@ -39,10 +39,12 @@ console.log(foo);
 
 | Hello | World |
 |-------|------ |
-| Foo   | Bar   |
+| hey   | wadap   |
 
 ---
 
 <img src="https://upload.wikimedia.org/wikipedia/fi/1/10/Enjoi_logo.png" alt="PandaEnjoiLogo">
+
+![KnightGif](https://github.com/Jkytol/JKgatsby/blob/master/src/images/Knight.gif?raw=true)
 
 ---
