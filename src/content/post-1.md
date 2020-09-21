@@ -4,7 +4,7 @@ date: "2020-21-09"
 draft: false
 path: "/blog/EkaPostaus"
 ---
-# This blog post is just some art showcase and movement script
+# c# movement script & art assets sneakpeek
 
 Get some inspiration maybe
 ---
