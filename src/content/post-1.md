@@ -2,7 +2,7 @@
 title: "Doing a game jam is such a pleasant thing, since its a joy, and this is long post title, and to view how it works. Game art and Code preview here."
 date: "2020-21-09"
 draft: false
-path: "/blog/example-title"
+path: "/blog/EkaPostaus"
 ---
 # This blog post is just some art showcase and movement script
 
@@ -46,9 +46,9 @@ void FixedUpdate(){
 
 ---
 
-| Game Name | Release Date |
-|-------|------ |
-| Just a Knight   | Never   |
+| Game Name | Release Date | asdf|
+|-------|------ |------|
+| Just a Knight   | Never   | asdf |
 
 ---
 
