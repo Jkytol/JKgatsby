@@ -47,10 +47,10 @@ const Layout = ({ children }) => (
           <main>{children}</main>
           <Footer>
             <p>
-            © {new Date().getFullYear()}, Built with
-            {` `}
+            © {new Date().getFullYear()}, Full Score Prototype
+            {` `} 
             </p>
-            <h6>LOVE</h6>
+          
           </Footer>
         </Content>
       </>
