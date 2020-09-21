@@ -42,4 +42,4 @@ console.log(foo);
 | Foo   | Bar   |
 
 
-<img src="https://upload.wikimedia.org/wikipedia/fi/1/10/Enjoi_logo.png" alt="Italian Trulli">
+<img src="https://upload.wikimedia.org/wikipedia/fi/1/10/Enjoi_logo.png" alt="PandaEnjoiLogo">
