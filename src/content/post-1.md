@@ -46,9 +46,9 @@ void FixedUpdate(){
 
 ---
 
-| Game Name :shipit: | Release Date | Rating |
+| Game Name <i class="em em-crossed_swords" aria-role="presentation" aria-label=""></i> | Release Date | Rating |
 |-------|------ |------|
-| Just a Knight   | Never   | :+1: |
+| Just a Knight   | Never   | <i class="em em---1" aria-role="presentation" aria-label="THUMBS UP SIGN"></i> |
 
 ---
 
