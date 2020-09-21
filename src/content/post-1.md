@@ -1,49 +1,56 @@
 ---
-title: "This is such a long headline and i dont know what to write so i keep continiung"
-date: "2019-03-17"
+title: "Doing a game jam is such a pleasant thing, since its a joy, and this is long post title, and to view how it works. Game art and Code preview here."
+date: "2020-21-09"
 draft: false
 path: "/blog/example-title"
 ---
-# H1
+# This blog post is just some art showcase and movement script
 
-## H2
-
-### H3
-
-#### H4
-
-##### H5
-
-###### H6
-
-Paragraph
-
+Get some inspiration maybe
 ---
 
-> This is a quote
-
----
-
-[Example.com](example.com)
-
----
-
-`const foo = bar`
+`Unity` `Animated Gif` `Script`
 
 ```javascript
-const foo = bar
-console.log(foo);
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class playerMovement : MonoBehaviour
+{
+
+    public float moveSpeed = 5f;
+    public Rigidbody2D rb;
+    public Animator animator;
+    Vector2 movement;
+
+
+
+    // Update is called once per frame
+    void Update()
+    {
+        movement.x = Input.GetAxisRaw("Horizontal");
+        movement.y = Input.GetAxisRaw("Vertical");
+
+        animator.SetFloat("Horizontal", movement.x);
+        animator.SetFloat("Vertical", movement.y);
+        animator.SetFloat("Speed", movement.sqrMagnitude);
+    }
+
+void FixedUpdate(){
+        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+    }
+
+}
 ```
 
 ---
 
-| Hello | World |
+| Game Name | Release Date |
 |-------|------ |
-| hey   | wadap   |
+| Just a Knight   | Never   |
 
 ---
-
-<img src="https://upload.wikimedia.org/wikipedia/fi/1/10/Enjoi_logo.png" alt="PandaEnjoiLogo">
 
 ![KnightGif](https://github.com/Jkytol/JKgatsby/blob/master/src/images/Knight.gif?raw=true)
 
