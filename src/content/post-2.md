@@ -10,11 +10,11 @@ path: "/blog/testing"
 #### This websites was built with Gatsby and free hosting with Netlify. 
 
 Tested with lighthouse with following score:
-<br>
+<br><br>
 ![SpeedScore](https://raw.githubusercontent.com/Jkytol/JKgatsby/master/src/images/100.PNG)
 <br>
 #### Results for the website we're great as expected, 
-but static websites lack a lot of functionality and ux though.
+but static websites lack a lot of functionality and ux though.<br>
 ![SpeedScoreInfo](https://raw.githubusercontent.com/Jkytol/JKgatsby/master/src/images/99.PNG)
 <br>
 
