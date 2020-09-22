@@ -8,9 +8,12 @@ path: "/blog/testing"
 # This website's usability testing score with Lighthouse browser extension
 
 This websites was built with Gatsby and free hosting with Netlify. Tested with lighthouse with following score:
+<br>
 ![SpeedScore](https://raw.githubusercontent.com/Jkytol/JKgatsby/master/src/images/100.PNG)
-Results for the website we're as expected, but static websites lack a lot of functionality and ux.
+<br>
+#### Results for the website we're as expected, but static websites lack a lot of functionality and ux.
 ![SpeedScoreInfo](https://raw.githubusercontent.com/Jkytol/JKgatsby/master/src/images/99.PNG)
+<br>
 
 Largest Contentful Paint (LCP): measures loading performance. To provide a good user experience, LCP should occur within 2.5 seconds of when the page first starts loading.
 <br>
