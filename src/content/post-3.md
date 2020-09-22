@@ -5,7 +5,7 @@ draft: false
 path: "/blog/Videos"
 ---
 
-## Short command examples of FOM video manipulation
+## Short examples of FOM video manipulation
 Set up development environment by downloading all dependencies in Anaconda commandpromt and then you are ready to roll.
 ```js
 conda create -n FO2 python=3.6
