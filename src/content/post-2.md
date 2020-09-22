@@ -28,5 +28,7 @@ Gatsby loads only critical parts of the page, so your site loads as fast as poss
 ![GatsbyInfo](https://raw.githubusercontent.com/Jkytol/JKgatsby/master/src/images/98.PNG)
 
 Sources:
+<br>
 https://web.dev/vitals/
+<br>
 https://www.gatsbyjs.com/
