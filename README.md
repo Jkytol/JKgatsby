@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://www.jannekytola.com">
-    <img alt="Janne" src="https://qph.fs.quoracdn.net/main-qimg-c8781a4bb1f17e330b50cb35f851da05.webp" width="60" height="80" />
+  <a href="https://www.jannekytola.com" float="left">
+    <img alt="Janne" src="https://qph.fs.quoracdn.net/main-qimg-c8781a4bb1f17e330b50cb35f851da05.webp" width="60" height="80" float="left" />
   </a>
 </p>
 <h1 align="center" float="left">
