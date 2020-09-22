@@ -7,12 +7,17 @@ path: "/blog/Artikkeli"
 
 ## Tiedon jakamisen voima
 
-#Saa paljon positiivista jakamalla oivalluksia 
+# Saa paljon positiivista jakamalla oivalluksia 
 
 Tiedon hyödyntäminen on edistyksen kannalta merkittävimmistä asioista mitä tulee mieleen. Informaatiota jakamalla sitä saa vietyä pidemmälle isommalla voimalla. Ihmiset, jotka ovat jääneet historian kirjoihin olivat monessa mielessä edelläkävijöitä! 
+
 Ei tiede olisi tässä pisteessä ilman tiedon jakamista. Jos Einstein, Galilei, da Vinci, Isaac Newton, Nikola Tesla etc, ei olisi vaivautunut jakamaan muille omia ajatuksiaan niin oltaisiin heikommassa asemassa ilman näiden tietoja. Ideoiden sekä oivallusten jakaminen tuo takaisinkinpäin tietoa. Samanhenkiset ihmiset päätyvät paremmin yhteen ja kohottavat toisiaan.
-Kuitenkin voi arvoa sisältävän tiedon kehittäminen vaatia oman aikansa sekä pysähtymistä, hiljaisuutta ennen kuin kannattaa oivalluksia lähteä jakamaan. Tiedolla on voimaa ja tällä pääsee myös käsiksi paremmin siihen mitä haluaa elämällä saavuttaa. Kehittyminen eri osa-alueilla muiden oppien avulla vauhdittaa kulkemista eri poluilla. Tiedon ruokkimiseen kuuluu asioiden mutustelu, pohtiminen ja uusilla vesillä kulkemista. Aika, energia, fokus ja effortti fuusiolla pääsee pitemmälle eri tietämyksen alueilla, ja tässä tukena voi olla myös muut aiheista kiinnostuneet yksilöt.
-Kolikossa on aina kääntöpuoli
+
+Kuitenkin voi arvoa sisältävän tiedon kehittäminen vaatia oman aikansa sekä pysähtymistä, hiljaisuutta ennen kuin kannattaa oivalluksia lähteä jakamaan. Tiedolla on voimaa ja tällä pääsee myös käsiksi paremmin siihen mitä haluaa elämällä saavuttaa. Kehittyminen eri osa-alueilla muiden oppien avulla vauhdittaa kulkemista eri poluilla. 
+
+Tiedon ruokkimiseen kuuluu asioiden mutustelu, pohtiminen ja uusilla vesillä kulkemista. Aika, energia, fokus ja effortti fuusiolla pääsee pitemmälle eri tietämyksen alueilla, ja tässä tukena voi olla myös muut aiheista kiinnostuneet yksilöt.
+
+# Kolikossa on aina kääntöpuoli
 
 Kaikessa elämässä on hyvää sekä pahaa. Tiedostaen kompastuskivet mitä tekee - kuten eri tilanteissa tässäkin tilannekohtaista miten toimia.
 Jos vertauskuvana mennään fantasia maailmaan niin Hobitit eivät olisi päässeet kovinkaan pitkälle ilman Gandalffin apua. Nämä ukkelit silti tekivät sen mitä koettiin mahdottomaksi. Tietty siellä joukossa voi olla aina joku Klonkku, joka pyrkii vain oman edun tavoitteluun.
@@ -25,5 +30,4 @@ Tiedon hautomisen aihetta ei ole tullut pahemmin vastaan missään, joten loista
 
 Tietoa kohti
 
-Levossa aiheet muhivat alitajunnassa ja oppii. Fiksua tietoa sisään niin sitä tulee uloskin päin. Pyyteetön tiedon jakaminen on myös merkki positiivisesta mentaliteetista. Tätä täällä Milleniaalimedia sivulla näkee ja on positiivista vaikutusta lukijalle, kuin myös tiedon jakajillekin. Pitämällä matalaa profiilia on helppo tie kulkea, mutta ajatusten jakaminen vahvistaa eri tavoilla minkä huomaa, kun sitä tekee. Kaikkia hyödyntäviä tilanteita tulee enemmän ja oppii jatkuvalla syötöllä uutta. Tiedolla ja sitä pidemmälle viemällä ratkaistaan ongelmia ja voi konkreettisesti vaikuttaa. Mikä ruokkii tietoa, sitä tulisi edesauttaa. Uteliaisuus, koulutus/oppiminen, avoimuus uudelle ja uuden kokeilu on kehittävää, kun tieto kasvaa. Jos tiedon jakamisella voi vaikuttaa paremman huomisen saavuttamiseksi, sekin on suotavaa.
-
+Levossa aiheet muhivat alitajunnassa ja oppii. Fiksua tietoa sisään niin sitä tulee uloskin päin. Pyyteetön tiedon jakaminen on myös merkki positiivisesta mentaliteetista. Pitämällä matalaa profiilia on helppo tie kulkea, mutta ajatusten jakaminen vahvistaa eri tavoilla minkä huomaa, kun sitä tekee. Kaikkia hyödyntäviä tilanteita tulee enemmän ja oppii jatkuvalla syötöllä uutta. Tiedolla ja sitä pidemmälle viemällä ratkaistaan ongelmia ja voi konkreettisesti vaikuttaa. Mikä ruokkii tietoa, sitä tulisi edesauttaa. Uteliaisuus, koulutus/oppiminen, avoimuus uudelle ja uuden kokeilu on kehittävää, kun tieto kasvaa. Jos tiedon jakamisella voi vaikuttaa paremman huomisen saavuttamiseksi, sekin on suotavaa.
