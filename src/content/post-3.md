@@ -1,32 +1,24 @@
 ---
-title: "Code Example"
+title: "Python Framework Videotest"
 date: "2019-06-06"
 draft: false
-path: "/blog/code-example"
+path: "/blog/Videos"
 ---
 
-## An Code example with PrismJS
-Gatsby-Starter-Julia uses the Atom Editor Theme.
-
+## Short command examples of FOM video manipulation
+Set up development environment by downloading all dependencies in Anaconda commandpromt and then you are ready to roll.
 ```js
-console.log("Hello World");
+conda create -n FO2 python=3.6
 ```
 
 ## Default NodeJS server
 
 ```js
-const http = require('http');
+//last step of the workflow
+python demo.py  --config config/dataset_name.yaml --driving_video path/to/driving --source_image path/to/source --checkpoint path/to/checkpoint --relative --adapt_scale
 
-const hostname = '127.0.0.1';
-const port = 3000;
-
-const server = http.createServer((req, res) => {
-  res.statusCode = 200;
-  res.setHeader('Content-Type', 'text/plain');
-  res.end('Hello World\n');
-});
-
-server.listen(port, hostname, () => {
-  console.log(`Server running at http://${hostname}:${port}/`);
-});
+//change png to jpg according to file used
+python demo.py  --config config/vox-adv-256.yaml --driving_video driving_video/crop.mp4 --source_image source_image/source.png --checkpoint fom_checkpoints/vox-adv-cpk.pth.tar --relative --adapt_scale
 ```
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGPph6JJcNs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
