@@ -4,7 +4,7 @@
     <img alt="Janne" src="https://qph.fs.quoracdn.net/main-qimg-c8781a4bb1f17e330b50cb35f851da05.webp" width="60" height="80" />
   </a>
 </p>
-<h1 align="center">
+<h1 align="center" float="left">
   Gatsby JS website
 </h1>
 
