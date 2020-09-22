@@ -1,6 +1,6 @@
 ---
 title: "Python Framework Videotest"
-date: "2019-06-06"
+date: "2019-09-23"
 draft: false
 path: "/blog/Videos"
 ---
