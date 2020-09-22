@@ -16,7 +16,7 @@ First Input Delay (FID): measures interactivity. To provide a good user experien
 
 Cumulative Layout Shift (CLS): measures visual stability. To provide a good user experience, pages should maintain a CLS of less than 0.1.
 
-Gatsby loads only critical1 parts of the page, so your site loads as fast as possible. Once loaded, Gatsby prefetches2 resources for other pages so that clicking on the site feels incredibly fast. Gatsby lets teams focus on creating content-driven websites instead of worrying about performance.
+Gatsby loads only critical parts of the page, so your site loads as fast as possible. Once loaded, Gatsby prefetches resources for other pages so that clicking on the site feels incredibly fast. Gatsby lets teams focus on creating content-driven websites instead of worrying about performance.
 
 This websites was built with Gatsby and free hosting with Netlify. Gatsby offers following benefits.
 
