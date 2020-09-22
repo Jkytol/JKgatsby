@@ -1,5 +1,5 @@
 ---
-title: "Doing a game jam is such a pleasant thing, since its a joy, and this is long post title, and to see how it works. Game art and Code preview here."
+title: "Doing a game jam is such a pleasant thing, since its a joy, and this is long post title to see how it shows on webpage. Game art and Code preview here."
 date: "2020-09-21"
 draft: false
 path: "/blog/eka-postaus"
