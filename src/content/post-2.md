@@ -14,7 +14,7 @@ Tested with lighthouse with following score:
 ![SpeedScore](https://raw.githubusercontent.com/Jkytol/JKgatsby/master/src/images/100.PNG)
 <br>
 #### Results for the website we're great as expected, 
-but static websites lack a lot of functionality and ux though.<br>
+but static websites lack a lot of functionality and ux though.<br><br>
 ![SpeedScoreInfo](https://raw.githubusercontent.com/Jkytol/JKgatsby/master/src/images/99.PNG)
 <br>
 
@@ -27,11 +27,8 @@ Cumulative Layout Shift (CLS): measures visual stability. To provide a good user
 <br><br>
 
 #### Gatsby
-<br>
 Gatsby loads only critical parts of the page, so your site loads as fast as possible. Once loaded, Gatsby prefetches resources for other pages so that clicking on the site feels incredibly fast. Gatsby lets teams focus on creating content-driven websites instead of worrying about performance.
-
-
-
+<br>
 ![GatsbyInfo](https://raw.githubusercontent.com/Jkytol/JKgatsby/master/src/images/98.PNG) 
 
 Sources:
