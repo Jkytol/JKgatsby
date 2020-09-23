@@ -1,5 +1,5 @@
 ---
-title: "Tiedon Voima"
+title: "Informaatiota jakamalla sitä saa vietyä pidemmälle"
 date: "2020-09-23"
 draft: false
 path: "/blog/Artikkeli"
@@ -32,4 +32,4 @@ Tiedon hautomisen aihetta ei ole tullut pahemmin vastaan missään, joten loista
 
 ### Tietoa kohti
 
-Levossa aiheet muhivat alitajunnassa ja oppii. Fiksua tietoa sisään niin sitä tulee uloskin päin. Pyyteetön tiedon jakaminen on myös merkki positiivisesta mentaliteetista. Pitämällä matalaa profiilia on helppo tie kulkea, mutta ajatusten jakaminen vahvistaa eri tavoilla minkä huomaa, kun sitä tekee. Kaikkia hyödyntäviä tilanteita tulee enemmän ja oppii jatkuvalla syötöllä uutta. Tiedolla ja sitä pidemmälle viemällä ratkaistaan ongelmia ja voi konkreettisesti vaikuttaa. Mikä ruokkii tietoa, sitä tulisi edesauttaa. Uteliaisuus, koulutus/oppiminen, avoimuus uudelle ja uuden kokeilu on kehittävää, kun tieto kasvaa. Jos tiedon jakamisella voi vaikuttaa paremman huomisen saavuttamiseksi, sekin on suotavaa.
+Levossa aiheet muhivat alitajunnassa ja oppii. Fiksua tietoa sisään niin sitä tulee uloskin päin. Pyyteetön tiedon jakaminen on myös merkki positiivisesta mentaliteetista. Pitämällä matalaa profiilia on helppo tie kulkea, mutta ajatusten jakaminen vahvistaa eri tavoilla minkä huomaa, kun sitä tekee. Kaikkia hyödyntäviä tilanteita tulee enemmän ja oppii jatkuvalla syötöllä uutta. Tiedolla ja sitä pidemmälle viemällä ratkaistaan ongelmia ja voi konkreettisesti vaikuttaa. Mikä ruokkii tietoa, sitä tulisi edesauttaa. Uteliaisuus, koulutus/oppiminen, avoimuus uudelle ja uuden kokeilu on kehittävää, kun tieto kasvaa. Tiedon jakamisella voi vaikuttaa paremman huomisen saavuttamiseksi.
