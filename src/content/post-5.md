@@ -1,6 +1,6 @@
 ---
 title: "Tiedon Voima"
-date: "2020-09-27"
+date: "2020-09-23"
 draft: false
 path: "/blog/Artikkeli"
 ---
