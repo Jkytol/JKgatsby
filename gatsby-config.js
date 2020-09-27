@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Janne`,
-    subtitle: `Providing Digital Service @ Kasvu Design`,
+    subtitle: `Providing Digital Services`,
     description: `A minimal blog for art and code. Content created by Janne.`,
     author: `@niklasmtj`,
   },
