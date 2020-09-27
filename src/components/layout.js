@@ -47,7 +47,7 @@ const Layout = ({ children }) => (
           <main>{children}</main>
           <Footer>
             <p>
-            © {new Date().getFullYear()}, Full Score Prototype
+            © {new Date().getFullYear()}, Prototype
             {` `} 
             </p>
           
