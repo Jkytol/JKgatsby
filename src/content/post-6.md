@@ -1,7 +1,7 @@
 ---
 title: "asdfTrue"
 date: "2020-10-03"
-draft: true
+draft: false
 path: "/blog/Artikkeli"
 ---
 
