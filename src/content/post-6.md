@@ -2,7 +2,7 @@
 title: "List to help you out in jobsearch"
 date: "2020-10-03"
 draft: false
-path: "/blog/Artikkeli"
+path: "/blog/Jobs"
 ---
 
 Avointyöpaikka - https://avointyopaikka.fi/
