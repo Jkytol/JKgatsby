@@ -8,7 +8,7 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Developer" keywords={[`Janne`, `Kytola`, `jannekytola`, `KytöläJanne`, `parasSeo`, `JanneSovelluskehitys`, `UnityPelinkehitys`]} />
     <LandingBio />
-  <form name="contact" method="POST" data-netlify="true">
+  <form name="contact" action="" method="POST" data-netlify="true" netlify>
   <p>
     <label>Your Name: <input type="text" name="name" /></label>   
   </p>
