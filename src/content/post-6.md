@@ -1,5 +1,5 @@
 ---
-title: "List to help you out in jobsearch"
+title: "jobsearch"
 date: "2020-10-03"
 draft: false
 path: "/blog/Jobs"
@@ -163,14 +163,6 @@ Ornamo - https://www.ornamo.fi/fi/tyopaikat/
 
 Tempro - https://tempro.fi/
 
-FlowCv - CV rakentaja - https://flowcv.io/
-
-NovResume - Cv rakentaja - https://novoresume.com
-
-Koodaripulasta infoa - https://www.koodaripula.com/
-
-Haastis (IT) - https://talented.fi/fi/blog/mita-ohjelmistokehittaja-voi-pyytaa-tyohaastattelussa/
-
 EUtöitä - http://www.te-palvelut.fi/te/fi/tyonhakijalle/loyda_toita/toihin_ulkomaille/eures_toihin_eurooppaan/index.html
 
 Työnhakuveturi - http://www.tyonhakuveturi.fi/
@@ -187,8 +179,6 @@ Työhakukanavia - https://www.tek.fi/fi/palvelut/urapalvelut/tyonhakuvalmennus/t
 
 StackOverflow - https://stackoverflow.com/jobs
 
-Linkedin Algorithm selitettynä - https://www.reddit.com/r/linkedin/comments/e1mc1l/the_linkedin_algorithm_explained_how_to_make_it/
-
 LinkUp - https://www.linkup.com/
 
 S-ryhmä - https://s-ryhma.fi/tyopaikat/avoimet-tyopaikat
@@ -198,6 +188,14 @@ Rekrytointi - https://rekrytointi.com/avoimet-tyopaikat/
 Työnhaku artikkeleita - https://tyopaikat.oikotie.fi/tyontekijalle/tyonhaku
 
 Lifeworks - https://www.lifeworks.fi/tyopaikat/
+
+FlowCv - CV rakentaja - https://flowcv.io/
+
+NovResume - Cv rakentaja - https://novoresume.com
+
+Koodaripulasta infoa - https://www.koodaripula.com/
+
+Haastis (IT) - https://talented.fi/fi/blog/mita-ohjelmistokehittaja-voi-pyytaa-tyohaastattelussa/
 
 Buutti - https://buuttiedu.com/tyonhakijalle/avoimet-tyopaikat/
 
