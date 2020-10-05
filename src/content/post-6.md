@@ -57,6 +57,8 @@ Studentwork - https://www.studentwork.fi/
 
 Hpheimo - https://www.hpheimo.fi
 
+FiNeuvoo - https://fi.neuvoo.com/
+
 Poolia - https://www.poolia.fi/tyonhakijalle/
 
 Eilakaisla - https://www.eilakaisla.fi/avoimet-tyopaikat/helsinki-espoo-vantaa
