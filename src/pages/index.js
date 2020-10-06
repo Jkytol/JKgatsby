@@ -8,7 +8,10 @@ const IndexPage = () => (
   <Layout>
     <SEO title="Developer" keywords={[`Janne`, `Kytola`, `jannekytola`, `KytöläJanne`, `parasSeo`, `JanneSovelluskehitys`, `UnityPelinkehitys`]} />
     <LandingBio />
-<form name="Contact Form" method="POST" data-netlify="true">
+
+  
+  <div style="background-color=black"> id="Formi>
+  <form name="Contact Form" method="POST" data-netlify="true">
       <input type="hidden" name="form-name" value="Contact Form" />
       <div>
         <label>Email:</label>
@@ -18,7 +21,7 @@ const IndexPage = () => (
         <label>Message:</label>
         <textarea name="message" />
       </div>
-      <button type="submit">Send</button></form>
+      <button type="submit">Send</button></form> </div>
   </Layout>
 )
 
