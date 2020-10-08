@@ -10,7 +10,7 @@ const IndexPage = () => (
     <LandingBio />
 
   
-  <div id="Formi>
+  <div id="myDIV">
   <form name="Contact Form" method="POST" data-netlify="true">
       <input type="hidden" name="form-name" value="Contact Form" />
       <div>
