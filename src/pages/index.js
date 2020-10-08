@@ -11,17 +11,18 @@ const IndexPage = () => (
 
   
   <div id="myDIV">
-  <form name="Contact Form" method="POST" data-netlify="true">
-      <input type="hidden" name="form-name" value="Contact Form" />
+ <form name="Contact Form" method="POST" data-netlify="true">
+      <input type="hidden" name="form-name" value="Contact Form"  />
       <div>
-        <label>Email:</label>
-        <input type="email" name="email" />
+        <label></label>
+        <input type="email" name="email" placeholder="Email" />
       </div>
       <div>
-        <label>Message:</label>
-        <textarea name="message" />
+        <label></label>
+        <textarea name="message" placeholder="Message" />
       </div>
-      <button type="submit">Send</button></form> </div>
+      <button type="submit">Send</button></form>
+</div>
   </Layout>
 )
 
