@@ -659,3 +659,16 @@ input, select, textarea{
   box-sizing:content-box;
   -webkit-box-sizing:content-box; 
 }
+
+#myDIV{
+ width: 100%;
+  height:100%;
+  padding: 90px 0;
+  text-align: center;
+  /*background-color: lightblue;*/
+  margin-top: auto;
+  background-image: url("123.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 35%;
+}
