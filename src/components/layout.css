@@ -683,7 +683,7 @@ input, select, textarea{
    text-align: center;
    /*background-color: lightblue;*/
    margin-top: auto;
-   background-image: url("/images/talk.gif");
+   background-image: url("../images/talk.gif");
    background-repeat: no-repeat;
    background-position: center;
    /*background-size: 35%;*/
@@ -697,7 +697,7 @@ input, select, textarea{
   text-align: center;
   /*background-color: lightblue;*/
   margin-top: auto;
-  background-image: url("/src/images/run.gif");
+  background-image: url("../images/run.gif");
   background-repeat: no-repeat;
   background-position: center;
   /*background-size: 35%;*/
