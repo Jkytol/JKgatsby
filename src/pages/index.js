@@ -25,7 +25,7 @@ const IndexPage = () => (
       <button type="submit">Send</button></form>
 </div>
 <div id="myDIVi"></div>
-<div id="myDIVii"><a href="https://paypal.me/kahviraha"><img src="https://raw.githubusercontent.com/Jkytol/JKgatsby/master/src/images/cGIF.gif" title="donateButton" /></a></div>
+<div id="myDIVii"><a href="https://paypal.me/kahviraha"><img src="../images/cGIF.gif" title="donateButton" /></a></div>
 
   </Layout>
 )
