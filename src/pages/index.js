@@ -11,7 +11,7 @@ const IndexPage = () => (
 
   
   <div id="myDIV">
-  <p>Lets get in touch.</p>
+  <p>Looking to get in touch?</p>
  <form name="Contact Form" method="POST" data-netlify="true">
       <input type="hidden" name="form-name" value="Contact Form"  />
       <div>
