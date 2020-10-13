@@ -690,7 +690,7 @@ input, select, textarea{
    background-size: contain;
  }
 
- #myDIVi:hover {
+ #myDIVi + img:hover {
   width: 100%;
   height:100%;
   padding: 90px 0;
