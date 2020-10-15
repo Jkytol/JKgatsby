@@ -50,7 +50,7 @@ const Layout = ({ children }) => (
             © {new Date().getFullYear()}, Prototype
             {` `} 
             </p>
-          
+          Built with <3 by Janne
           </Footer>
         </Content>
       </>
