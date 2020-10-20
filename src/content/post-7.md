@@ -9,7 +9,7 @@ path: "/blog/skateboarding"
 
 ## https://youtu.be/KXHVpNaURHg
 
-![skedekuva](https://raw.githubusercontent.com/Jkytol/JKgatsby/master/src/images/skedekuva.PNG)
+![](https://raw.githubusercontent.com/Jkytol/JKgatsby/master/src/images/skedekuva.PNG)
 
 Video was test with davinci resolve free video making software.
 Music was fast choice for copyright reasons. 
