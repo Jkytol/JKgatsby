@@ -1,12 +1,10 @@
 ---
-title: "Doing a game jam is such a pleasant thing, since its a joy, and this is long post title to see how it shows on webpage. Game art and Code preview here."
+title: "Unity Sideproject"
 date: "2020-09-21"
 draft: false
-path: "/blog/eka-postaus"
+path: "/blog/firstBlogPost"
 ---
-# c# movement script & art assets sneakpeek
-
-Get some inspiration maybe
+# c# movement script & concept art 
 ---
 
 `Unity` `Animated Gif` `Script`
@@ -53,6 +51,6 @@ void FixedUpdate(){
 
 ---
 
-![KnightGif](https://github.com/Jkytol/JKgatsby/blob/master/src/images/Knight.gif?raw=true)
+![conceptart](https://github.com/Jkytol/JKgatsby/blob/master/src/images/Knight.gif?raw=true)
 
 ---
