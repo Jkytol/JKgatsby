@@ -1,7 +1,7 @@
 ---
 title: "jobsearch"
 date: "2020-10-03"
-draft: false
+draft: true
 path: "/blog/Jobs"
 ---
 
