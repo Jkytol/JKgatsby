@@ -31,6 +31,25 @@ Gatsby loads only critical parts of the page, so your site loads as fast as poss
 <br><br>
 ![GatsbyInfo](https://raw.githubusercontent.com/Jkytol/JKgatsby/master/src/images/98.PNG) 
 
+## 📚 Website features:
+
+- Landingpage
+- Blog overview page
+- Markdown sourcing from /content folder
+- Estimated reading time for each post
+- Styled components with emotion
+- Netlify deployment friendly
+- Nunito font included as npm module
+- Syntax highlighting with prismjs
+- Textmarkerstyle headings inspired by Basecamp
+- Site meta tags with React Helmet
+- Plugins for offline support
+- Draft blog posts not published
+- Form input
+- Scalable
+- 100 Lighthouse test score's
+- donate btn
+
 Sources:
 <br>
 https://web.dev/vitals/
