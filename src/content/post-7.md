@@ -7,7 +7,7 @@ path: "/blog/skateboarding"
 
 ### Skateboarding - Janne Kytölä
 
-## [Skateboarding Video](https://youtu.be/KXHVpNaURHg "Skateboarding Video Link")
+## [Click to watch Skateboarding Video](https://youtu.be/KXHVpNaURHg "Skateboarding Video link")
 
 
 
