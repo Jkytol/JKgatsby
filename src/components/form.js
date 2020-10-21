@@ -35,7 +35,7 @@ const NameForm = (props) => {
       })
     })
       // On success, redirect to the custom success page using Gatsby's `navigate` helper function
-      .then(() => navigate("/thank-you/"))
+      .then(() => navigate("/Thankyou/"))
       // On error, show the error in an alert
       .catch(error => alert(error));
   };
