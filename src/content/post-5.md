@@ -1,5 +1,5 @@
 ---
-title: "Informaatiota jakamalla sitä saa vietyä pidemmälle"
+title: "Share ideas not identity"
 date: "2020-09-23"
 draft: false
 path: "/blog/Artikkeli"
@@ -25,10 +25,9 @@ Jos vertauskuvana mennään fantasia maailmaan niin Hobitit eivät olisi pääss
  
  ##### Tiedon hautominen
  
-```js
+
 Tiedon hautomisen aihetta ei ole tullut pahemmin vastaan missään, joten loistava aihe alue kertoa tietoa tästä täällä. Tämän tiedon hautomisen konseptin tiedon hautominen olisi ollut ironista. Hiljaa olemalla ei saavuteta merkityksellisiä tekoja. Tiedon jakajat ja uuden äärellä taistelijat tuovat valoa tietämättömyyden tielle. Aiheista keskustelu voi viedä aina aihealueita pidemmälle, kun tulee uusia näkemyksiä, ajatuksia aiheista muiltakin. Tiedon hautominen on toiminta tapa, kun välttämättä ei tiedosteta tiedon jakamisesta koituvia hyviä puolia. Tieto mikä jää hyödyntämättä ei ole minkään arvoista. 
 
-```
 
 ### Tietoa kohti
 
