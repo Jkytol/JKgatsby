@@ -26,7 +26,7 @@ const NameForm = (props) => {
       })
     })
 
-      .then(() => navigate("/thank-you/"))
+      .then(() => navigate("/thankyou/"))
       .catch(error => alert(error));
   };
     
