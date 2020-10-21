@@ -7,9 +7,9 @@ path: "/blog/skateboarding"
 
 ### Skateboarding - Janne Kytölä
 
-vvvv
-## https://youtu.be/KXHVpNaURHg
-ʌʌʌʌ
+## [Skateboarding Video](https://youtu.be/KXHVpNaURHg "Skateboarding Video Link")
+
+
 
 ![](https://raw.githubusercontent.com/Jkytol/JKgatsby/master/src/images/skedekuva.PNG)
 
