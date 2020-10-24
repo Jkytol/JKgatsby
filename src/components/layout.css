@@ -14,7 +14,9 @@ html{
     height:auto;
 }
     
-
+.bloglink{
+color:0033ff;
+}
 body {
   margin: 0;
   font-family: "Nunito", "Avenir", "Helvetica", "sans-serif";
