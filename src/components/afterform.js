@@ -34,7 +34,7 @@ const NameForm = (props) => {
 <div id="myDIV">
 <p>Message sent</p><p class="succesfull">succesfully!</p>
 <br></br>
-<p>Check the <a href="/blog" >Blog</a> if bored.</p>
+<p>Check the <a href="/blog" class="bloglink" >Blog</a> if bored.</p>
 <br></br>
 <p> have a nice day!</p>
 </div>
