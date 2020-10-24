@@ -4,7 +4,7 @@ import LandingBio from "../components/landing-bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import NameForm from "../components/form"
-import Donate from "../images/cGif"
+import Donate from "src/images/cGIF.gif"
 
 const IndexPage = () => (
   <Layout>
