@@ -32,7 +32,7 @@ const NameForm = (props) => {
     
   return (
 <div id="myDIV">
-<p>Message sent succesfully! :)</p>
+<p>Message sent</p><p class="succesfull">succesfully!</p>
 <br></br>
 <p>Check the <a href="/blog" >Blog</a> if bored.</p>
 <br></br>
