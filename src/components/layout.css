@@ -16,7 +16,9 @@ html{
     
 .bloglink{
 color: #0033ff;
+font-weight: 1000;
 }
+
 body {
   margin: 0;
   font-family: "Nunito", "Avenir", "Helvetica", "sans-serif";
