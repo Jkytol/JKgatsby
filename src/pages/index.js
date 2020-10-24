@@ -4,7 +4,7 @@ import LandingBio from "../components/landing-bio"
 import Layout from "../components/layout"
 import SEO from "../components/seo"
 import NameForm from "../components/form"
-import Donate from "src/images/cGIF.gif"
+
 
 const IndexPage = () => (
   <Layout>
@@ -14,7 +14,7 @@ const IndexPage = () => (
     <NameForm />
 
 <div id="myDIVi"></div>
-<div id="myDIVii"><a href="https://paypal.me/kahviraha/5"><img src={Donate} alt="donateButton"/></a></div>
+<div id="myDIVii"><a href="https://paypal.me/kahviraha/5"><img src="https://raw.githubusercontent.com/Jkytol/JKgatsby/master/src/images/cGIF.gif" alt="donateButton"/></a></div>
 
   </Layout>
 )
