@@ -14,7 +14,7 @@ const IndexPage = () => (
     <NameForm />
 
 <div id="myDIVi"></div>
-<div id="myDIVii"><a href="https://paypal.me/kahviraha/5"><img src={Donate} alt="corgi" title="donateButton"/></a></div>
+<div id="myDIVii"><a href="https://paypal.me/kahviraha/5"><img src={Donate} alt="donateButton"/></a></div>
 
   </Layout>
 )
