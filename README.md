@@ -21,4 +21,4 @@
 - Draft blog posts not published
 - Form input
 - Scalable
-- 100 Lighthouse test score's
+- 100 Lighthouse test score
