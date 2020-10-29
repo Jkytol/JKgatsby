@@ -727,7 +727,7 @@ input, select, textarea{
 }
 
 .wrapper {
-      height: 100vh;
+      height: 1vh;
       /*This part is important for centering*/
       display: flex;
       align-items: center;
