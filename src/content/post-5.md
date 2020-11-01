@@ -1,6 +1,6 @@
 ---
 title: "Share ideas not identity"
-date: "2020-09-23"
+date: "2020-05-14"
 draft: false
 path: "/blog/Artikkeli"
 ---
