@@ -23,7 +23,7 @@ Kaikessa elämässä on hyvää sekä pahaa. Tiedostaen kompastuskivet mitä tek
 Jos vertauskuvana mennään fantasia maailmaan niin Hobitit eivät olisi päässeet kovinkaan pitkälle ilman Gandalffin apua. Nämä ukkelit silti tekivät sen mitä koettiin mahdottomaksi. Tietty siellä joukossa voi olla aina joku Klonkku, joka pyrkii vain oman edun tavoitteluun.
  
  
- ##### Tiedon hautominen
+ #### Tiedon hautominen
  
 
 Tiedon hautomisen aihetta ei ole tullut pahemmin vastaan missään, joten loistava aihe alue kertoa tietoa tästä täällä. Tämän tiedon hautomisen konseptin tiedon hautominen olisi ollut ironista. Hiljaa olemalla ei saavuteta merkityksellisiä tekoja. Tiedon jakajat ja uuden äärellä taistelijat tuovat valoa tietämättömyyden tielle. Aiheista keskustelu voi viedä aina aihealueita pidemmälle, kun tulee uusia näkemyksiä, ajatuksia aiheista muiltakin. Tiedon hautominen on toiminta tapa, kun välttämättä ei tiedosteta tiedon jakamisesta koituvia hyviä puolia. Tieto mikä jää hyödyntämättä ei ole minkään arvoista. 
