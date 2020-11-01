@@ -75,18 +75,13 @@ const SiteHeader = styled.header`
 const Header = ({ siteTitle }) => (
   <SiteHeader>
     <Content>
-  <img src="https://img.favpng.com/11/9/17/duckman-png-favpng-NsvKJfVKB5spn20A7QP7Mjq2r.jpg" />
-<img src="logo.jpg" />
       <p>
-  <img src="logo.jpg" />
-  <img src="https://img.favpng.com/11/9/17/duckman-png-favpng-NsvKJfVKB5spn20A7QP7Mjq2r.jpg" />
         <HomeLink to="/">{siteTitle}</HomeLink>
         <NavLink to="/blog">Blog</NavLink>
         <GitHubLink href="https://github.com/kytol">
           GitHub
         </GitHubLink>
       </p> 
-  <img src="logo.jpg" />
     </Content>
   </SiteHeader>
 )
