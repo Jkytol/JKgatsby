@@ -47,7 +47,7 @@ const Layout = ({ children }) => (
           <main>{children}</main>
           <Footer>
             <p>
-            © {new Date().getFullYear()}, Prototype
+            React, Gatsby & Netlify Prototype case study by JK  © {new Date().getFullYear()}
             {` `} 
             </p>
           </Footer>
