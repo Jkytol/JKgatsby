@@ -54,7 +54,3 @@ void FixedUpdate(){
 ![conceptart](https://github.com/Jkytol/JKgatsby/blob/master/src/images/Knight.gif?raw=true)
 
 ---
-
-Alternative Code showcase test (ignore)
-
-<script src="https://gist.github.com/Jkytol/777337db4e8ebf2ab7b7373936a36459.js"></script>
