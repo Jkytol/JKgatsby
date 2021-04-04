@@ -22,3 +22,5 @@
 - Form input
 - Scalable
 - 100 Lighthouse test score's
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/262e977c-9a01-4f32-a6b2-64972a9cab7c/deploy-status)](https://app.netlify.com/sites/jannekytola/deploys)
