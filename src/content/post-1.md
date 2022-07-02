@@ -3,8 +3,6 @@ title: "Unity Sideproject"
 date: "2020-05-10"
 draft: false
 path: "/blog/firstBlogPost"
-cover_index: https://www.wpbeginner.com/wp-content/uploads/2020/04/featuredimageswp-og.png 
-cover_detail:  https://hamzashatela.com/wp-content/uploads/2017/11/8-Tips-to-Make-Your-Posts-Thumbnail-Suck-Less.jpg
 ---
 # c# movement script & concept art 
 ---
