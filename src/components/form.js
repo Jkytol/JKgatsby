@@ -47,6 +47,7 @@ const NameForm = (props) => {
 <p>Looking to get in touch?</p>
 <form name="Contact Form" method="POST" data-netlify="true" action="/" onSubmit={handleSubmit}>
     <input type="hidden" name="form-name" value="Contact Form"  />
+        <input type="text" name="_gotcha" style="display:none" />
     <div>
       <label></label>
       <input type="email" name="email" placeholder="Email" />
