@@ -33,6 +33,20 @@ Tiedon hautomisen aihetta ei ole tullut pahemmin vastaan missään, joten loista
 
 Levossa aiheet muhivat alitajunnassa ja oppii. Fiksua tietoa sisään niin sitä tulee uloskin päin. Pyyteetön tiedon jakaminen on myös merkki positiivisesta mentaliteetista. Pitämällä matalaa profiilia on helppo tie kulkea, mutta ajatusten jakaminen vahvistaa eri tavoilla minkä huomaa, kun sitä tekee. Kaikkia hyödyntäviä tilanteita tulee enemmän ja oppii jatkuvalla syötöllä uutta. Tiedolla ja sitä pidemmälle viemällä ratkaistaan ongelmia ja voi konkreettisesti vaikuttaa. Mikä ruokkii tietoa, sitä tulisi edesauttaa. Uteliaisuus, koulutus/oppiminen, avoimuus uudelle ja uuden kokeilu on kehittävää, kun tieto kasvaa. Tiedon jakamisella voi vaikuttaa paremman huomisen saavuttamiseksi.
 
+### Yhteisöllisyys tiedon jakamisessa
+
+Kun ajattelemme tiedon jakamista, emme voi ohittaa yhteisöllisyyden voimaa. Kun yksilö jakaa tietonsa yhteisölle, se ei vain kukoista ja laajene, vaan myös moninkertaistuu. Tämä on erityisen havaittavissa digitaalisella aikakaudella, jossa sosiaalisen median ja muiden alustojen ansiosta yksilö voi jakaa oivalluksiaan laajalle yleisölle hetkessä.
+
+Tämä digitaalinen aikakausi on tuonut mukanaan sekä mahdollisuuksia että haasteita. Toisaalta tieto leviää nopeasti, mutta toisaalta väärä tai harhaanjohtava tieto voi levitä yhtä nopeasti. Tiedon laadun varmistaminen ja kriittinen ajattelu ovatkin entistä tärkeämpiä taitoja nykyaikana.
+
+Yhteisön sisällä, kun yksi henkilö tuo uuden ajatuksen pöydälle, muut voivat rakentaa siihen, antaa palautetta ja tuoda omat näkemyksensä. Tämä keskinäinen vuorovaikutus mahdollistaa ideoiden jalostumisen ja niiden soveltamisen käytäntöön entistä tehokkaammin.
+
+Toisaalta yhteisön sisäinen vuorovaikutus voi myös luoda kaikukammioita, joissa samanmieliset vahvistavat toistensa näkemyksiä ilman, että kukaan kyseenalaistaa tai haastaa ajatuksia. Tällöin on vaarana, että yhteisö sulkeutuu ulkopuolisilta ääniltä ja menettää kykynsä innovoida.
+
+Tiedon jakamisessa on kyse myös luottamuksesta. Luottamus siihen, että jaettu tieto käytetään oikein ja että yhteisö osaa arvostaa sitä. Mutta myös luottamus siihen, että saa vastineeksi uusia oivalluksia ja näkemyksiä.
+
+Tiedon jakaminen onkin lopulta paitsi lahja yhteisölle, myös sijoitus tulevaisuuteen. Kun jaamme tietoa, investoimme yhteisömme kasvuun, ymmärrykseen ja kykyyn ratkaista haasteita yhdessä. Ja kun tieto liikkuu, maailma muuttuu – yksilö kerrallaan.
+
 Edit 15.9.2021:
 Jos aihe kiinnostaa, niin lisää aiheesta seuraavasta linkistä jossa eri hyötyjä listattuna aiheesta:
 Bartosz Górka [Knowledge sharing is important](https://bartoszgorka.com/knowledge-sharing-is-important) July 7, 2021
